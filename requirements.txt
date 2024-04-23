@@ -1,9 +1,2 @@
-﻿altgraph==0.17.4
-charset-normalizer==3.3.2
-idna==3.7
-packaging==24.0
-pefile==2023.2.7
-pywin32-ctypes==0.2.2
 requests==2.31.0
-setuptools==69.5.1
 urllib3==2.2.1
