@@ -1,5 +1,7 @@
 AmbientWeather Data Backup
 
+Script baseado no equipamento Ambient Weather WS-5000,
+
 Este script Python permite fazer backup dos dados diários de um dispositivo AmbientWeather para um arquivo CSV. Ele obtém os dados do dia anterior e os salva em um arquivo CSV para fins de registro ou análise posterior.
 
 Configuração
