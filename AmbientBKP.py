@@ -60,7 +60,7 @@ def save_to_csv(data, filename):
 
 def main():
     # Defina o endereço MAC do dispositivo
-    mac_address = '48:55:19:C3:17:68'
+    mac_address = 'XX:XX:XX:XX:XX:XX'
 
     # Obter época Unix para o dia anterior
     start_time, end_time = get_epoch_unix_for_yesterday()
